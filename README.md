@@ -13,6 +13,5 @@
             <img align="center" alt="python"src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
             <img align="center" alt="c++ "src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
             <img align="center" alt="Java "src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-            <img align="center" alt="Kotlin "src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
-            <img align="center" alt="Mysql "src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />          
+            <img align="center" alt="Kotlin "src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />         
 </div>
