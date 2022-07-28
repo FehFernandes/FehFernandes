@@ -1,6 +1,6 @@
 ## Hi, Dev! 
 
-<p>
+<p align="center">
   My name is <strong>Felipe</strong> 👋.  
 </p>
 <br>
