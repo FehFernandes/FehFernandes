@@ -1,7 +1,7 @@
 ## Hi, Dev! 
 
 <p>
-  My name is <strong>Felipe</strong>. I am passionate about technology and I am always looking to learn and evolve more and more.
+  My name is <strong>Felipe</strong>. I am 
 </p>
 <br>
 
