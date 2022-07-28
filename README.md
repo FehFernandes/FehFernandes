@@ -1,7 +1,7 @@
 ## Hi, Dev! 
 
 <p>
-  My name is <strong>Felipe</strong>. I am 
+  My name is <strong>Felipe</strong> 👋.  
 </p>
 <br>
 
