@@ -7,11 +7,11 @@
 
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devfelipef&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luann0233&layout=compact&langs_count=7&theme=aura"/>
+  <a href="https://github.com/devfelipef">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devfelipef&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfelipef&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
+  
 <h3 align="center">Languages and Tools:</h3>
 
 <div style="display: inline_block" align="center"><br>
@@ -39,6 +39,6 @@
   <a href="" target="blank"><img src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/50px/quora.png" target="_blank"></a> 
   <a href="" target="blank"><img src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/50px/linkedin.png" target="_blank"></a> 
  
- ![Snake animation](https://github.com/devfelipef/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
 <br>
