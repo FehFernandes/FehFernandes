@@ -39,6 +39,6 @@
   <a href="" target="blank"><img src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/50px/quora.png" target="_blank"></a> 
   <a href="" target="blank"><img src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/50px/linkedin.png" target="_blank"></a> 
  
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/devfelipef/devfelipef/blob/main/.github/workflows/snake.yml)
 </div>
 <br>
