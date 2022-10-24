@@ -1,9 +1,11 @@
 ## Hi, Dev! 
 
 <p align="center">
-  My name is <strong>Felipe</strong> 👋.  
+  I'm Felps / <strong>Felipe Fernandes</strong> 👋.  
 </p>
 <br>
+
+<p> I'm a Fullstack Developer/Information Systems student that loves coding. I code since i was 15yo, and that's my true passion. My first language was C, but now my stack is totally different. </p>
 
 <h3 align="center">Languages and Tools:</h3>
 
