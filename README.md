@@ -5,7 +5,7 @@
 </p>
 <br>
 
-<p> I'm a Fullstack Developer/Information Systems student that loves coding. I code since i was 15yo, and that's my true passion. My first language was C, but now my stack is totally different. </p>
+<p> I'm a developer/information systems student who loves coding. I've coded since I was 15, and that's my real passion. My first language was <strong>C</strong>, but now my stack is totally different </p>
 
 <h3 align="center">Languages and Tools:</h3>
 
