@@ -5,13 +5,6 @@
 </p>
 <br>
 
-
-<div align="center">
-  <a href="https://github.com/devfelipef">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devfelipef&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfelipef&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-  
 <h3 align="center">Languages and Tools:</h3>
 
 <div style="display: inline_block" align="center"><br>
