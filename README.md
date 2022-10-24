@@ -29,9 +29,8 @@
 <div align="center"> 
   <a href="http://api.whatsapp.com/send?phone=+5533998607407" target="blank"><img src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/50px/whatsapp.png" target="_blank"></a>
   <a href="https://www.instagram.com/fhelps11/" target="_blank"><img src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/50px/instagram.png" target="blank"></a>
- 	<a href="https://www.twitch.tv/felipefer_" target="blank"><img src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/50px/discord.png" target="blank"></a>
- <a href="https://discordapp.com/users/devfelipef#7202" target="_blank"><img src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/50px/twitch.png" target="_blank"></a> 
-  <a href="" target="blank"><img src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/50px/quora.png" target="_blank"></a> 
+ 	<a href="#" target="blank"><img src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/50px/discord.png" target="blank"></a>
+ <a href="https://www.twitch.tv/felipefer_" target="_blank"><img src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/50px/twitch.png" target="_blank"></a>  
   <a href="" target="blank"><img src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/50px/linkedin.png" target="_blank"></a> 
  
 </div>
