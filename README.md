@@ -5,7 +5,7 @@
 </p>
 <br>
 
-<p> I'm a developer/information systems student who loves coding. I love the Arch Linux. Learning more and more</p>
+<p> I'm a FullStack developer/information systems student who loves coding. I love the Arch Linux. Learning more and more</p>
 
 <h4>Front-end:</h4>
 
