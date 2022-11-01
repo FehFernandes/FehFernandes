@@ -5,7 +5,7 @@
 </p>
 <br>
 
-<p> I'm a developer/information systems student who loves coding. I've coded since I was 15, and that's my real passion. My first language was <strong>C</strong>, but now my stack is totally different </p>
+<p> I'm a developer/information systems student who loves coding. I've coded since I was 15, and that's my real passion. My first language was <strong>C</strong>, but now my stack is different </p>
 
 <h3 align="center">Font-end:</h3>
 <div style="display: inline_block" align="center"><br>
