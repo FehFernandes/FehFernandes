@@ -13,7 +13,7 @@
 
 <h4>Back-end:</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,py,postgres)](https://skillicons.dev)
 
 <h4>Mobile:</h4>
 
