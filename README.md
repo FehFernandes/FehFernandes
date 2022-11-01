@@ -5,7 +5,7 @@
 </p>
 <br>
 
-<p> I'm a developer/information systems student who loves coding. I've coded since I was 15, and that's my real passion. My first language was <strong>C</strong>, but now my stack is different </p>
+<p> I'm a developer/information systems student who loves coding. I love the Arch Linux. Learning more and more</p>
 
 <h4>Front-end:</h4>
 
