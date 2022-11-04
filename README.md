@@ -5,23 +5,46 @@
 </p>
 <br>
 
-<p> I'm a FullStack developer/information systems student who loves coding. I love the Arch Linux. Learning more and more</p>
 
+<div align="center">
+<details>
+      <summary>
+         <kbd><h3>View Skills</h3><kbd>
+      </summary>
+
+           
+<h4>Programming languages:</h4>
+           
+[![My Skills](https://skillicons.dev/icons?i=js,py,kotlin,flutter&perline=5)](https://skillicons.dev)
+
+     
+           
 <h4>Front-end:</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,figma,jquery,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,jquery&perline=5)](https://skillicons.dev)
 
+           
+<h4>Document and design:</h4>
+           
+[![My Skills](https://skillicons.dev/icons?i=figma,ps&perline=5)](https://skillicons.dev)        
+           
 <h4>Back-end:</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,py,postgres)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=nodejs,py,postgres&perline=5)](https://skillicons.dev)
+           
 <h4>Mobile:</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,flutter,kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,flutter,kotlin&perline=5)](https://skillicons.dev)
 
+<h4>SO:</h4>
+           
+           
 <h4>Other</h4>
 
+           
 [![My Skills](https://skillicons.dev/icons?i=aws,git,github,linux,stackoverflow,vscode)](https://skillicons.dev)
+           
+</div>
 
 
 
