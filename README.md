@@ -15,10 +15,8 @@
            
 <h4>Programming languages:</h4>
            
-[![My Skills](https://skillicons.dev/icons?i=js,py,kotlin,flutter&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,kotlin&perline=5)](https://skillicons.dev)
 
-     
-           
 <h4>Front-end:</h4>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,jquery&perline=5)](https://skillicons.dev)
@@ -32,12 +30,14 @@
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,django&perline=5)](https://skillicons.dev)
 
-<h4>Database:<4>
-  
-[![My Skills](https://skillicons.dev/icons?i=postgres&perline=5)](https://skillicons.dev)
+<h4>Database:</h4>
+
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql&perline=5)](https://skillicons.dev)
+
 
 <h4>SO:</h4>
 
+<img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" alt="Arch" width="40px" height="40px">
 
            
            
