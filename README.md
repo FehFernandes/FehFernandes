@@ -1,7 +1,8 @@
 ## Hi, Dev! 
 
 <p align="center">
-  I'm Felps / <strong>Felipe Fernandes</strong> 👋.  
+  I'm Felps / <strong>Felipe Fernandes</strong> 👋. <br>
+  A passionate fullstack developer from <strong>Brazil!<strong> 🇧🇷
 </p>
 <br>
 
