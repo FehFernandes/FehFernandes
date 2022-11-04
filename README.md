@@ -2,10 +2,9 @@
 
 <p align="center">
   I'm Felps / <strong>Felipe Fernandes</strong> 👋. <br>
-  A passionate fullstack developer from <strong>Brazil!<strong> 🇧🇷
+  A passionate fullstack developer from <strong>Brazil<strong>! 🇧🇷
 </p>
 <br>
-
 
 <div align="center">
 <details>
@@ -34,12 +33,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql&perline=5)](https://skillicons.dev)
 
-
 <h4>SO:</h4>
 
 <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" alt="Arch" width="40px" height="40px">
-
-           
            
 <h4>Other</h4>
 
@@ -48,15 +44,24 @@
            
 </div>
 
-
-
 <div align="center"> 
   <h4>Social</h4>
-  <a href="http://api.whatsapp.com/send?phone=+5533998607407" target="blank"><img src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/50px/whatsapp.png" target="_blank"></a>
-  <a href="https://www.instagram.com/fhelps11/" target="_blank"><img src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/50px/instagram.png" target="blank"></a>
- 	<a href="#" target="blank"><img src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/50px/discord.png" target="blank"></a>
- <a href="https://www.twitch.tv/felipefer_" target="_blank"><img src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/50px/twitch.png" target="_blank"></a>  
-  <a href="" target="blank"><img src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/50px/linkedin.png" target="_blank"></a> 
+
+  <a href="#">
+    <img src="https://cdn-icons-png.flaticon.com/512/1377/1377213.png" width="50px" />
+  </a>
+  <a href="#">
+    <img src="https://cdn-icons-png.flaticon.com/512/4494/4494489.png" width="50px" />
+  </a>
+   <a href="#">
+    <img src="https://cdn-icons-png.flaticon.com/512/4494/4494495.png" width="50px" />
+  </a>
+   <a href="#">
+    <img src="https://cdn-icons-png.flaticon.com/512/4494/4494737.png" width="50px" />
+  </a>
+   <a href="#">
+    <img src="https://cdn-icons-png.flaticon.com/512/4494/4494481.png" width="50px" />
+  </a>
  
 </div>
 <br>
