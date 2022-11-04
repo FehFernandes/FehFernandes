@@ -30,15 +30,15 @@
            
 <h4>Back-end:</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,py,postgres&perline=5)](https://skillicons.dev)
-           
-<h4>Mobile:</h4>
-
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,flutter,kotlin&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,django&perline=5)](https://skillicons.dev)
 
 <h4>Database:<4>
+  
+[![My Skills](https://skillicons.dev/icons?i=postgres&perline=5)](https://skillicons.dev)
 
 <h4>SO:</h4>
+
+
            
            
 <h4>Other</h4>
