@@ -53,15 +53,11 @@
   <a href="#">
     <img src="https://cdn-icons-png.flaticon.com/512/4494/4494489.png" width="50px" />
   </a>
-   <a href="#">
-    <img src="https://cdn-icons-png.flaticon.com/512/4494/4494495.png" width="50px" />
-  </a>
+  
    <a href="#">
     <img src="https://cdn-icons-png.flaticon.com/512/4494/4494737.png" width="50px" />
   </a>
-   <a href="#">
-    <img src="https://cdn-icons-png.flaticon.com/512/4494/4494481.png" width="50px" />
-  </a>
+  
  
 </div>
 <br>
