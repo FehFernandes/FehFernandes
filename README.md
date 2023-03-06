@@ -15,15 +15,15 @@
            
 <h4>Programming languages:</h4>
            
-[![My Skills](https://skillicons.dev/icons?i=js,py,kotlin&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,ts&perline=5)](https://skillicons.dev)
 
 <h4>Front-end:</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,jquery&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap&perline=5)](https://skillicons.dev)
 
 <h4>Back-end:</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,django&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs&perline=5)](https://skillicons.dev)
            
 <h4>Design:</h4>
            
