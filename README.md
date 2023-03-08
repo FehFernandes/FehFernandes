@@ -2,7 +2,7 @@
 
 <p align="center">
   I'm Felps / <strong>Felipe Fernandes</strong> 👋. <br>
-  A passionate fullstack developer from <strong>Brazil<strong>! 🇧🇷
+  A passionate fullstack developer from <strong>Brazil<strong>! 🇧🇷 
 </p>
 <br>
 
@@ -19,7 +19,7 @@
 
 <h4>Front-end:</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react&perline=5)](https://skillicons.dev)
 
 <h4>Back-end:</h4>
 
@@ -40,7 +40,7 @@
 <h4>Other</h4>
 
            
-[![My Skills](https://skillicons.dev/icons?i=aws,git,github,linux,stackoverflow,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,git,github,linux,)](https://skillicons.dev)
            
 </div>
 
