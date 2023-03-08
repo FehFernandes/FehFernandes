@@ -23,7 +23,7 @@
 
 <h4>Back-end:</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,aws,azure,postgres,mysql,docker&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,aws,azure,postgres,mysql,docker&perline=6)](https://skillicons.dev)
 
 <h4>Other</h4>
 
