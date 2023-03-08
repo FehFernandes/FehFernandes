@@ -19,15 +19,11 @@
 
 <h4>Front-end:</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,react&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react&perline=5)](https://skillicons.dev)
 
 <h4>Back-end:</h4>
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs&perline=5)](https://skillicons.dev)
-           
-<h4>Design:</h4>
-           
-[![My Skills](https://skillicons.dev/icons?i=figma,ps&perline=5)](https://skillicons.dev)        
 
 <h4>Database:</h4>
 
