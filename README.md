@@ -13,15 +13,15 @@
       </summary>
 
            
-<h4>Programming languages:</h4>
+<h4>Programming languages</h4>
            
 [![My Skills](https://skillicons.dev/icons?i=js,ts,py&perline=5)](https://skillicons.dev)
 
-<h4>Front-end:</h4>
+<h4>Front-end</h4>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react&perline=5)](https://skillicons.dev)
 
-<h4>Back-end:</h4>
+<h4>Back-end</h4>
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,aws,azure,postgres,mysql,docker&perline=6)](https://skillicons.dev)
 
