@@ -19,7 +19,7 @@
 
 <h4>Front-end</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs&perline=5)](https://skillicons.dev)
 
 <h4>Back-end</h4>
 
