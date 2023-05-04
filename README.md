@@ -2,7 +2,7 @@
 
 <p align="center">
   I'm Felps / <strong>Felipe Fernandes</strong> 👋. <br>
-  A passionate developer from <strong>Brazil<strong>! 🇧🇷 
+ Developer from <strong>Brazil<strong>! 🇧🇷 
   
  </p>
 
