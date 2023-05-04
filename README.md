@@ -2,7 +2,7 @@
 
 <p align="center">
   I'm Felps / <strong>Felipe Fernandes</strong> 👋. <br>
-  A passionate fullstack developer from <strong>Brazil<strong>! 🇧🇷 
+  A passionate developer from <strong>Brazil<strong>! 🇧🇷 
   
  </p>
 
@@ -15,7 +15,7 @@
            
 <h4>Programming languages</h4>
            
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,rust,kotlin&perline=5)](https://skillicons.dev)
 
 <h4>Front-end</h4>
 
@@ -23,9 +23,9 @@
 
 <h4>Back-end</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,aws,azure,postgres,mysql,docker&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,postgres,mysql,docker&perline=6)](https://skillicons.dev)
 
-<h4>Other</h4>
+<h4>Others</h4>
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,linux)](https://skillicons.dev)
            
