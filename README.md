@@ -15,7 +15,7 @@
            
 <h4>Programming languages</h4>
            
-[![My Skills](https://skillicons.dev/icons?i=js,py,rust,kotlin&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,rust,cs,cpp,java&perline=6)](https://skillicons.dev)
 
 <h4>Front-end</h4>
 
@@ -23,11 +23,15 @@
 
 <h4>Back-end</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,postgres,mysql,docker&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django&perline=6)](https://skillicons.dev)
+
+<h4>Banco de dados</h4>
+           
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql&perline=6)](https://skillicons.dev)
 
 <h4>Others</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,linux,aws,cloud)](https://skillicons.dev)
            
 </div>
 
