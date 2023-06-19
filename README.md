@@ -31,7 +31,7 @@
 
 <h4>Others</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,linux,aws,cloud)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,linux,aws)](https://skillicons.dev)
            
 </div>
 
