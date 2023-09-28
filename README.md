@@ -19,15 +19,11 @@
 
 <h4>Front-end</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs&perline=5)](https://skillicons.dev)
-
-<h4>Back-end</h4>
-
-[![My Skills](https://skillicons.dev/icons?i=django&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,svelte&perline=6)](https://skillicons.dev)
 
 <h4>Banco de dados</h4>
            
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite&perline=6)](https://skillicons.dev)
 
 <h4>Others</h4>
 
