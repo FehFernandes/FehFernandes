@@ -17,7 +17,7 @@
            
 [![My Skills](https://skillicons.dev/icons?i=ts,py,ruby,cs,cpp,java&perline=6)](https://skillicons.dev)
 
-<h4>Front-end</h4>
+<h4>Web</h4>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,svelte&perline=6)](https://skillicons.dev)
 
