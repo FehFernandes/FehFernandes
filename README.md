@@ -15,7 +15,7 @@
            
 <h4>Programming languages</h4>
            
-[![My Skills](https://skillicons.dev/icons?i=ts,py,ruby,cs,cpp,java&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,ruby,cs,cpp,java&perline=6)](https://skillicons.dev)
 
 <h4>Web</h4>
 
