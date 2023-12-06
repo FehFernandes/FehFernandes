@@ -34,7 +34,7 @@
 <div align="center"> 
   <h4>Social</h4>
 
-  <a href="https://www.linkedin.com/in/felipe-fernandes-17086b221/">
+  <a href="#">
     <img src="https://cdn.icon-icons.com/icons2/730/PNG/512/linkedin_icon-icons.com_62764.png" width="50px" />
   </a>
   <a href="https://www.instagram.com/fhelps11/">
