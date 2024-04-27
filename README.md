@@ -4,7 +4,6 @@
 
 - 📖 Curso Bacharelado Sistema de informação pelo Instituto Federal de Minas (IFMG)
 - 🧠 Em constante aprendizado.
-- 🔭 Atualmente trabalhando em projetos pessoais de desenvolvimento web.
 - 🌱 Aprendendo mais sobre Dados e IA.
 - 🎯 Objetivo de 2024: Contribuir para muitos projetos de código aberto.
 
