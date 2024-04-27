@@ -1,47 +1,32 @@
-## Hi, Dev! 
+<h1 align="left">Olá, eu sou Felipe ! 👋 </h1>
 
-<p align="center">
-  I'm Felps / <strong>Felipe Fernandes</strong> 👋. <br>
- Developer from <strong>Brazil<strong>! 🇧🇷 
-  
- </p>
+- 📖 Curso Bacharelado Sistema de informação pelo Instituto Federal de Minas (IFMG)
+- 🧠 Em constante aprendizado.
+- 🔭 Atualmente trabalhando em projetos pessoais de desenvolvimento web.
+- 🌱 Aprendendo mais sobre Dados e IA.
+- 🎯 Objetivo de 2024: Contribuir para muitos projetos de código aberto.
 
-<div align="center">
-<details>
-      <summary>
-         <kbd><h3>View Skills</h3><kbd>
-      </summary>
+<br><br>
 
-           
-<h4>Programming languages</h4>
-           
-[![My Skills](https://skillicons.dev/icons?i=js,py,ruby,cs,cpp,java&perline=6)](https://skillicons.dev)
+## 🛠 &nbsp;Tech Stack
 
-<h4>Web</h4>
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,svelte,django&perline=7)](https://skillicons.dev)
-
-<h4>Banco de dados</h4>
-           
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb&perline=6)](https://skillicons.dev)
-
-<h4>Others</h4>
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,linux,docker)](https://skillicons.dev)
-           
+<div align="center" >
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=javascript,python,arch,git,vscode,github,linux,aws,cs" />
+</a>
 </div>
 
-<div align="center"> 
-  <h4>Social</h4>
+<br><br>
 
-  <a href="#">
-    <img src="https://cdn.icon-icons.com/icons2/730/PNG/512/linkedin_icon-icons.com_62764.png" width="50px" />
-  </a>
-  <a href="https://www.instagram.com/fhelps11/">
-    <img src="https://cdn.icon-icons.com/icons2/730/PNG/512/instagram_icon-icons.com_62767.png" width="50px" />
-  </a>
-   <a href="#">
-    <img src="https://cdn.icon-icons.com/icons2/1477/PNG/512/circlesocialdiscord_101888.png" width="50px" />
-  </a>
-</div>
-<br>
+## ⚙️ &nbsp;GitHub Analytics
+
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FehFernandes&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FehFernandes&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
+
+<br><br>
+
+## :computer: Social Links
+
+<p align="left" style="background:yellow">
+
+</p>
