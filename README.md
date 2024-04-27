@@ -1,3 +1,5 @@
+
+
 <h1 align="left">Olá, eu sou Felipe ! 👋 </h1>
 
 - 📖 Curso Bacharelado Sistema de informação pelo Instituto Federal de Minas (IFMG)
@@ -28,5 +30,6 @@
 ## :computer: Social Links
 
 <p align="left" style="background:yellow">
-
+  <a href="https://www.linkedin.com/in/felipe-fernandes-17086b221/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
+  <a href="contatofelipef7@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
