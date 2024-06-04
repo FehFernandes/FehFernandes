@@ -5,7 +5,7 @@
 - 📖 Curso Bacharelado Sistema de informação pelo Instituto Federal de Minas (IFMG)
 - 🧠 Em constante aprendizado.
 - 🌱 Aprendendo mais sobre Dados e IA.
-- 🎯 Objetivo de 2024: Contribuir para muitos projetos de código aberto.
+- 🎯 Objetivo de 2024: Contribuir muitos projetos de código aberto.
 
 <br><br>
 
