@@ -1,6 +1,6 @@
 
 
-<h1 align="left">Olá, eu sou Felipe ! 👋 </h1>
+<h1 align="left">Olá, eu sou Felipe ! 👋 🇧🇷 </h1>
 
 - 📖 Curso Bacharelado Sistema de informação pelo Instituto Federal de Minas (IFMG)
 - 🧠 Em constante aprendizado.
