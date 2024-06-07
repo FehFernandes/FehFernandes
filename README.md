@@ -3,7 +3,7 @@
 <h1 align="left">Olá, eu sou Felipe ! 👋 🇧🇷 </h1>
 
 - 📖 Curso Bacharelado Sistema de informação pelo Instituto Federal de Minas (IFMG)
-- 🧠 Em constante aprendizado.
+- 🧠 Em constante aprendizado. 
 - 🌱 Aprendendo mais sobre Dados e IA.
 - 🎯 Objetivo de 2024: Contribuir muitos projetos de código aberto.
 
