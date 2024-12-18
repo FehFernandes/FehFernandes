@@ -114,9 +114,16 @@ mindmap
 #### Backend
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+
+#### Ferramentas 
+
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 #### Banco de dados
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -129,6 +136,16 @@ mindmap
 ![Edição de Vídeo](https://img.shields.io/badge/Edi%C3%A7%C3%A3o%20de%20V%C3%ADdeo-FF5722?style=for-the-badge)
 ![Marketing Digital](https://img.shields.io/badge/Marketing%20Digital-4CAF50?style=for-the-badge)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+
+### Experiências
+![Desenvolvimento de Software](https://img.shields.io/badge/Desenvolvimento%20de%20Software-2196F3?style=for-the-badge)
+![Criação de Testes](https://img.shields.io/badge/Cria%C3%A7%C3%A3o%20de%20Testes-4CAF50?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System%20Design-9C27B0?style=for-the-badge)
+![Novas Funcionalidades](https://img.shields.io/badge/Novas%20Funcionalidades-F44336?style=for-the-badge)
+![Banco de Dados SQL](https://img.shields.io/badge/Banco%20de%20Dados_SQL-3F51B5?style=for-the-badge)
+![Desenvolvimento de SaaS](https://img.shields.io/badge/Desenvolvimento%20de%20SaaS-607D8B?style=for-the-badge)
+![Configuração de Linux](https://img.shields.io/badge/Configura%C3%A7%C3%A3o%20Arch%20Linux-795548?style=for-the-badge)
+![Análise de Dados Pandas](https://img.shields.io/badge/An%C3%A1lise%20de%20Dados_Pandas-017CEE?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### Experiências
 ![Desenvolvimento de Software](https://img.shields.io/badge/Desenvolvimento%20de%20Software-2196F3?style=for-the-badge)
