@@ -1,6 +1,6 @@
 <div align="center">
   
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=777FF7&center=true&vCenter=true&random=false&width=600&lines=Olá!+Eu+sou+Felipe+%F0%9F%91%8B;Desenvolvedor+Full+Stack+%F0%9F%9A%80;Apaixonado+por+Tecnologia+%F0%9F%92%BB;Explorando+IA+e+Dados+%F0%9F%A4%96;Sempre+Aprendendo+%F0%9F%93%9A)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=777FF7&center=true&vCenter=true&random=false&width=600&lines=Olá!+Eu+me+chamo+Felipe+%F0%9F%91%8B;Desenvolvedor+Full+Stack+%F0%9F%9A%80;Apaixonado+por+Tecnologia+%F0%9F%92%BB;Sempre+aprendendo+algo+🤺;)](https://git.io/typing-svg)
 
 <!-- Status Banner -->
 <p align="center">
@@ -32,24 +32,19 @@ const Felipe = {
         name: "Felipe Fernandes",
         location: "Brasil 🇧🇷",
         role: "Desenvolvedor Full Stack",
-        education: "Bacharel em Sistemas de Informação - IFMG"
+        education: "Bacharel em Sistemas de Informação - IFMG",
+        languages: [
+            "Português",
+            "Inglês (Intermediário)",
+            "Espanhol (Intermediário)"
+        ],
     },
-    
-    skills: {
-        languages: ["JavaScript", "TypeScript", "Python", "Java"],
-        frontend: ["React", "Next.js", "Tailwind CSS", "Styled Components"],
-        backend: ["Node.js", "Django", "Spring Boot", "Express"],
-        database: ["PostgreSQL", "MongoDB", "Redis", "ElasticSearch"],
-        devops: ["AWS", "Docker", "Kubernetes", "CI/CD"],
-        tools: ["Git", "VS Code", "Postman", "Figma"]
-    },
-    
-    currentChallenge: "Desenvolvendo soluções inovadoras com IA 🤖",
     goals2025: [
-        "Contribuir em projetos open source 🌟",
-        "Especialização em Arquitetura Cloud ☁️",
-        "Desenvolvimento de produtos escaláveis 📈"
-    ]
+        "Contribuir para projetos Open Source",
+        "Aprender mais sobre IA",
+        "Publicar artigos",
+        "Certificações Cloud"
+    ],
 };
 ```
 
@@ -81,48 +76,75 @@ mindmap
   root((Felipe Skills))
     Frontend
       React
-      Next.js
-      TypeScript
+      Next
       Tailwind
     Backend
       Node.js
-      Python
-      Java
-      GraphQL
-    DevOps
+      FastAPI
+      
+    Tools
       AWS
       Docker
-      Kubernetes
-      CI/CD
+      Git
+
     Data
+      Mysql
       PostgreSQL
-      MongoDB
-      Redis
-      ElasticSearch
+
 ```
 
-### Frontend
+## Conhecimentos 
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c%23&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+#### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+#### Backend
+
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### Database & Cloud
+#### Banco de dados
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+#### Design & Outros
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![UI/UX Design](https://img.shields.io/badge/UI%2FUX_Design-9C27B0?style=for-the-badge)
+![Edição de Vídeo](https://img.shields.io/badge/Edi%C3%A7%C3%A3o%20de%20V%C3%ADdeo-FF5722?style=for-the-badge)
+![Marketing Digital](https://img.shields.io/badge/Marketing%20Digital-4CAF50?style=for-the-badge)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+
+### Experiências
+![Desenvolvimento de Software](https://img.shields.io/badge/Desenvolvimento%20de%20Software-2196F3?style=for-the-badge)
+![Criação de Testes](https://img.shields.io/badge/Cria%C3%A7%C3%A3o%20de%20Testes-4CAF50?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System%20Design-9C27B0?style=for-the-badge)
+![Novas Funcionalidades](https://img.shields.io/badge/Novas%20Funcionalidades-F44336?style=for-the-badge)
+![Banco de Dados SQL](https://img.shields.io/badge/Banco%20de%20Dados_SQL-3F51B5?style=for-the-badge)
+![Desenvolvimento de SaaS](https://img.shields.io/badge/Desenvolvimento%20de%20SaaS-607D8B?style=for-the-badge)
+![Configuração de Linux](https://img.shields.io/badge/Configura%C3%A7%C3%A3o%20Arch%20Linux-795548?style=for-the-badge)
+![Análise de Dados Pandas](https://img.shields.io/badge/An%C3%A1lise%20de%20Dados_Pandas-017CEE?style=for-the-badge&logo=pandas&logoColor=white)
+
 </div>
 
 <br>
 
-## 🛠️ Projetos que estou fazendo 🧑‍🏭
+## 🛠️ Projetos sendo feitos atualmente 🧑‍🏭
 <div align="center">
 <div>
   <a href="https://github.com/FehFernandes/ReprodutordevideoXAML">
@@ -138,9 +160,9 @@ mindmap
   
 | Meta | Status |
 |------|--------|
-| 📚 Publicar artigos técnicos | Em progresso |
+| 📚 Publicar artigos | Planejando |
 | 🤖 Aprender mais sobre IA | Planejando |
-| 🌟 Contribuir para projetos Open Source | Em progresso |
+| 🌟 Contribuir para projetos Open Source | Planejando |
 | 📜 Certificações Cloud | Planejando |
 
 </div>
@@ -167,10 +189,10 @@ mindmap
 <br>
 
 - 🎮 Favorite Game: Skyrim
+-  🌍 Dream Setup: Fully Automated Home Office
 - 📚 Currently Reading: Clean Architecture
 - ☕ Coffee Consumption: 4 cups/day
 - 🎵 Coding Playlist: Synthwave & Lo-fi
-- 🌍 Dream Setup: Fully Automated Home Office
 - 🎯 Next Learning Goal: Quantum Computing
 
 </details>
