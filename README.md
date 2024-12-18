@@ -20,11 +20,22 @@
   <img src="https://img.shields.io/badge/Open%20To%20Work-Available-success?style=for-the-badge&logo=moleculer&logoColor=white&color=777FF7" alt="Open To Work"/>
 </p>
 
-<!-- Stats Cards em Grid -->
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FehFernandes&show_icons=true&count_private=true&hide_border=true&title_color=777FF7&icon_color=777FF7&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FehFernandes&layout=compact&hide_border=true&title_color=777FF7&text_color=c9d1d9&bg_color=0d1117" />
+<!-- Innovative Status Badges -->
+
+<!-- Innovative Stats Display -->
+<div class="stats" align="center">
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FehFernandes&theme=radical)
+
+<div style="display: flex; justify-content: space-between;">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FehFernandes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FehFernandes&layout=compact&langs_count=7&theme=radical"/>
 </div>
+
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FehFernandes&theme=radical&row=1&column=6&margin-h=15&margin-w=5&no-bg=true" />
+</p>
 
 </div>
 
@@ -81,16 +92,7 @@ const Felipe = {
 
 </div>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FehFernandes&theme=transparent&hide_border=true&stroke=777FF7&ring=777FF7&fire=777FF7&currStreakNum=777FF7&sideNums=777FF7&currStreakLabel=777FF7&sideLabels=777FF7&dates=777FF7" />
-</div>
-
-<!-- Gráfico de Contribuições -->
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=FehFernandes&bg_color=0D1117&color=777FF7&line=777FF7&point=777FF7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 🏆 Destaques
+## 🛠️ Contruindo
 
 <div align="center">
   <a href="https://github.com/FehFernandes/ReprodutordevideoXAML">
@@ -124,8 +126,18 @@ const Felipe = {
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </div>
+<details>
+<summary>🎉 Fun Facts</summary>
+<br>
 
----
+- 🎮 Favorite Game: The Witcher 3
+- 📚 Currently Reading: Clean Architecture
+- ☕ Coffee Consumption: 4 cups/day
+- 🎵 Coding Playlist: Synthwave & Lo-fi
+- 🌍 Dream Setup: Fully Automated Home Office
+- 🎯 Next Learning Goal: Quantum Computing
+
+</details>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=777FF7&height=120&section=footer" width="100%"/>
@@ -134,3 +146,5 @@ const Felipe = {
   
   ⭐️ Se algum projeto ajudou você, considere deixar uma estrela!
 </div>
+
+<sub>Last updated: December 2024</sub>
