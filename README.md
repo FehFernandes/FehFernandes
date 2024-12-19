@@ -196,10 +196,10 @@ mindmap
 <br>
 
 - 🎮 Favorite Game: Skyrim
--  🌍 Dream Setup: Fully Automated Home Office
-- 📚 Currently Reading: Clean Architecture
-- ☕ Coffee Consumption: 4 cups/day
+- 🌍 Dream Setup: Fully Automated Home Office
 - 🎵 Coding Playlist: Synthwave & Lo-fi
+- ☕ Coffee Consumption: 4 cups/day
+- 📚 Currently Reading: Clean Architecture
 - 🎯 Next Learning Goal: Quantum Computing
 
 </details>
