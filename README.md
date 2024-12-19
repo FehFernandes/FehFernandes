@@ -147,16 +147,6 @@ mindmap
 ![Configuração de Linux](https://img.shields.io/badge/Configura%C3%A7%C3%A3o%20Arch%20Linux-795548?style=for-the-badge)
 ![Análise de Dados Pandas](https://img.shields.io/badge/An%C3%A1lise%20de%20Dados_Pandas-017CEE?style=for-the-badge&logo=pandas&logoColor=white)
 
-### Experiências
-![Desenvolvimento de Software](https://img.shields.io/badge/Desenvolvimento%20de%20Software-2196F3?style=for-the-badge)
-![Criação de Testes](https://img.shields.io/badge/Cria%C3%A7%C3%A3o%20de%20Testes-4CAF50?style=for-the-badge)
-![System Design](https://img.shields.io/badge/System%20Design-9C27B0?style=for-the-badge)
-![Novas Funcionalidades](https://img.shields.io/badge/Novas%20Funcionalidades-F44336?style=for-the-badge)
-![Banco de Dados SQL](https://img.shields.io/badge/Banco%20de%20Dados_SQL-3F51B5?style=for-the-badge)
-![Desenvolvimento de SaaS](https://img.shields.io/badge/Desenvolvimento%20de%20SaaS-607D8B?style=for-the-badge)
-![Configuração de Linux](https://img.shields.io/badge/Configura%C3%A7%C3%A3o%20Arch%20Linux-795548?style=for-the-badge)
-![Análise de Dados Pandas](https://img.shields.io/badge/An%C3%A1lise%20de%20Dados_Pandas-017CEE?style=for-the-badge&logo=pandas&logoColor=white)
-
 </div>
 
 <br>
