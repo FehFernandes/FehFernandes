@@ -38,13 +38,6 @@ const Felipe = {
             "Inglês (Intermediário)",
             "Espanhol (Intermediário)"
         ],
-    },
-    goals2025: [
-        "Contribuir para projetos Open Source",
-        "Aprender mais sobre IA",
-        "Publicar artigos",
-        "Certificações Cloud"
-    ],
 };
 ```
 
