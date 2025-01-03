@@ -2,14 +2,12 @@
   
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=777FF7&center=true&vCenter=true&random=false&width=600&lines=Olá!+Eu+me+chamo+Felipe+%F0%9F%91%8B;Desenvolvedor+Full+Stack+%F0%9F%9A%80;Apaixonado+por+Tecnologia+%F0%9F%92%BB;Sempre+aprendendo+algo+🤺;)](https://git.io/typing-svg)
 
-<!-- Status Banner -->
 <p align="center">
   <a href="https://github.com/FehFernandes">
     <img src="https://img.shields.io/badge/Status-Developing%20awesome%20things-success?style=for-the-badge&logo=github&logoColor=white&color=777FF7" alt="Status"/>
   </a>
 </p>
 
-<!-- Profile Metrics -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FehFernandes&style=for-the-badge&color=777FF7" alt="Profile Views"/>
   <a href="https://github.com/FehFernandes?tab=followers">
@@ -63,7 +61,6 @@ const Felipe = {
 
 <div align="center">
 
-<!-- Dynamic Skill Tree -->
 ```mermaid
 mindmap
   root((Felipe Skills))
