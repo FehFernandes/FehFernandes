@@ -61,25 +61,6 @@ const Felipe = {
 
 <div align="center">
 
-```mermaid
-mindmap
-  root((Felipe Skills))
-    Frontend
-      React
-      Next
-      Tailwind
-    Backend
-      Node.js
-      FastAPI
-    Tools
-      AWS
-      Git
-    Data
-      Mysql
-      PostgreSQL
-
-```
-
 ## Todo meu conhecimento 
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
