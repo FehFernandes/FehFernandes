@@ -22,22 +22,6 @@
 
 <br>
 
-## 👨‍💻 Sobre Mim
-
-```javascript
-const Felipe = {
-    profile: {
-        name: "Felipe Fernandes",
-        location: "Brasil 🇧🇷",
-        role: "Desenvolvedor Full Stack",
-        education: "Bacharel em Sistemas de Informação - IFMG",
-        languages: [
-            "Português",
-            "Inglês (Intermediário)",
-            "Espanhol (Intermediário)"
-        ],
-};
-```
 
 <br>
     
@@ -46,10 +30,7 @@ const Felipe = {
 <div>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FehFernandes&theme=radical"/>
   
-  <div style="display: inline_block">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FehFernandes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FehFernandes&layout=compact&langs_count=7&theme=radical"/>
-  </div>
+ 
 
   <img src="https://github-profile-trophy.vercel.app/?username=FehFernandes&theme=radical&row=1&column=6&margin-h=15&margin-w=5&no-bg=true" />
 </div>
@@ -61,7 +42,6 @@ const Felipe = {
 
 <div align="center">
 
-## Todo meu conhecimento 
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -110,27 +90,53 @@ const Felipe = {
 
 <br>
 
-## 🛠️ Projetos sendo feitos atualmente 🧑‍🏭
+
+## 🌟 Featured Projects
+
 <div align="center">
-<div>
-  <a href="[https://github.com/FehFernandes/APIweather](https://github.com/FehFernandes/APIweather)">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FehFernandes&repo=APIweather&theme=transparent&hide_border=true&title_color=777FF7&icon_color=777FF7&text_color=c9d1d9&bg_color=0D1117" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Weather API Project</h3>
+      <div align="center">
+        <a href="https://github.com/FehFernandes/APIweather">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=FehFernandes&repo=APIweather&theme=tokyonight&hide_border=true" alt="Weather API"/>
+        </a>
+        <p><strong>Tech Stack:</strong> Python, OpenWeather API</p>
+        <p>Real-time weather data with beautiful visualizations 🌤️</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Coming Soon</h3>
+      <div align="center">
+        <p>Working on something exciting! 🚀</p>
+        <p>Stay tuned for more innovative projects...</p>
+      </div>
+    </td>
+  </tr>
+</table>
 </div>
 
 <br>
 
-## 📅 Metas 2025
-<div align="center">
-  
-| Meta | Status |
-|------|--------|
-| 📚 Publicar artigos | Planejando |
-| 🤖 Aprender mais sobre IA | Planejando |
-| 🌟 Contribuir para projetos Open Source | Planejando |
-| 📜 Certificações Cloud | Planejando |
+## 🎯 2025 Goals & Progress
 
+<div align="center">
+
+| Goal | Progress | Status |
+|------|----------|--------|
+| 📚 Publish Technical Articles | 3/12 | In Progress |
+| 🤖 Master AI/ML Fundamentals | 30% | Learning |
+| 💻 Build Portfolio Projects | 6/20 | Developing |
+
+</div>
+
+## 💻 My Workspace
+<div align="center">
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/AMD%20Ryzen-7-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-32GB-0071C5?style=for-the-badge&logo=memory&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA-RTX%203070-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 </div>
 
 <br>
