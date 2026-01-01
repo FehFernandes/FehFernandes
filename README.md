@@ -54,7 +54,7 @@ I believe AI only creates value when it solves real user problems, and that succ
 - Framer Motion
 
 **Backend**
-- Go (Fiber)
+- Fiber
 - Node.js
 - Express
 - FastAPI
@@ -79,5 +79,3 @@ I believe AI only creates value when it solves real user problems, and that succ
 
 ---
 
-> Engineering is not about using everything.  
-> It is about choosing wisely, sustaining decisions over time, and evolving with consistency.
