@@ -75,7 +75,7 @@ I believe AI only creates value when it solves real user problems, and that succ
 
 ## Contact
   
-- LinkedIn: [https://www.linkedin.com/in/](https://www.linkedin.com/in/felipe-fernandessa/)
+- LinkedIn: [https://www.linkedin.com/in/felipe-fernandessa/]
 
 ---
 
