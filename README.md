@@ -3,7 +3,8 @@
 **Full-Cycle Software Engineer**  
 Architecting, building, and deploying digital products end-to-end. Available for freelance.
 
-[Portfolio](https://imfelipe.dev) · [Email](mailto:felipe@imfelipe.dev)
+* **Email:** [felipe@imfelipe.dev](mailto:felipe@imfelipe.dev)
+* **Portfolio:** [imfelipe.dev](https://imfelipe.dev)
 
 ---
 
@@ -27,9 +28,3 @@ Open-source infinite canvas built from scratch on Canvas 2D, no rendering librar
 ---
 
 ...
-
-### Contact & Info
-
-* **Email:** [felipe@imfelipe.dev](mailto:felipe@imfelipe.dev)
-* **Portfolio:** [imfelipe.dev](https://imfelipe.dev)
-* **Location:** Brazil (UTC-3)
