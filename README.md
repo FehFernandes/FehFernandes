@@ -12,17 +12,17 @@ Architecting, building, and deploying digital products end-to-end. Available for
 
 **[Noki](https://www.usenoki.com/)** — Productivity platform · [Live ↗](https://www.usenoki.com/)
 
-Full-scale production platform (~70k LOC) featuring notes with backlinks, kanban boards, sprints, flashcards with quizzes, Google Calendar sync, and cloud file storage. Architected with a GCP Cloud Run backend, Cloudflare Workers frontend, JWT + refresh auth, TOTP 2FA, and Google OAuth.
+Productivity platform, 94k lines across a Go API and a React frontend. Notes with markdown, backlinks, and public publishing; kanban boards; projects with sprints and role-based access; flashcards with spaced repetition and learning tracking; calendar with habits and Google Calendar sync; mindmaps; finance tracker; goals; public profiles; global search; WebSocket real-time; and AI-powered onboarding. JWT + TOTP 2FA, Google OAuth, at-rest encryption, audit logging. Deployed on GCP Cloud Run, Cloudflare Workers, and R2.
 
-`Go` `Fiber` `GORM` `PostgreSQL` `React` `Vite` `Cloudflare R2` `DigitalOcean Spaces`
+`Go` `Fiber` `PostgreSQL` `React` `TypeScript` `Tailwind` `GCP Cloud Run` `Cloudflare Workers` `Cloudflare R2`
 
 ---
 
 **[OmniBoard](https://github.com/FehFernandes/omniboard)** — Infinite canvas · [Repository ↗](https://github.com/FehFernandes/omniboard)
 
-Open-source infinite canvas built in two modular layers: an embeddable 2D engine and a full standalone diagramming application. Features infinite pan/zoom, 16 diagram shapes, element-bound connector arrows, snap guides, undo/redo history, frames, and cross-board navigation.
+Open-source infinite canvas built from scratch on Canvas 2D, no rendering libraries. The engine is a zero-dependency package (`@omniboard/core`) separate from the React app and Go backend. Supports pan/zoom, 16 shapes, snap guides, connector arrows, undo/redo, threaded comments, share links, and more.
 
-`TypeScript` `Canvas 2D` `React` `Go` `Fiber` `PostgreSQL`
+`TypeScript` `Canvas 2D API` `React` `Go` `Fiber` `PostgreSQL` `Cloudflare R2` `Redis` `Docker`
 
 ---
 
