@@ -27,4 +27,12 @@ Open-source infinite canvas built from scratch on Canvas 2D, no rendering librar
 
 ---
 
+**[IFMap](https://github.com/FehFernandes/ifmap)** — Campus wayfinding system for a federal institute · [Repository ↗](https://github.com/FehFernandes/ifmap)
+
+Full-cycle system commissioned by the Federal Institute of Minas Gerais (IFMG) to solve a real spatial orientation problem on campus, replacing information that was previously scattered or available only in person. Designed and built end-to-end as three independent modules communicating through a REST API, a public mobile app, an administrative panel, and a Laravel backend, covering georeferenced building and sector mapping, service and phone directory search, photo galleries, and an automated news feed synced from the institution's portal. Includes a full CRUD admin panel so non-technical staff can maintain content independently, token-based authentication for administrators, and native mobile apps for Android and iOS. Released as open source and documented with that continuity in mind, so future developers and students can maintain, extend, and evolve the system over time.
+
+`PHP` `Laravel` `SQLite` `React` `Vite` `TypeScript` `Tailwind CSS` `Expo` `React Native` `React Native Maps`
+
+---
+
 ...
